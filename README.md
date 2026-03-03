@@ -21,3 +21,11 @@ This repo includes baseline docs, CI, and handoff checklists so collaborators ca
 ## Security
 - Keep API keys in n8n credentials/secrets manager.
 - Do not commit live tokens or webhook secrets.
+
+## Employment Readiness
+This repository includes baseline standards to support hiring and delegation:
+- Clear onboarding in README/docs
+- CI checks for build/test/lint where applicable
+- Handoff/deploy checklist for repeatable operations
+- Secret-safe configuration via `.env.example` or platform secrets
+
